@@ -9,3 +9,11 @@ Inicialmente, este proyecto ha sido desarrollado de manera **local**, con el obj
 Para la elaboración y personalización del diseño de la tienda se ha utilizado **Elementor**, permitiendo crear una interfaz moderna y adaptable.
 
 La aplicación incluye **gestión de productos, carrito de compra, proceso de checkout y pagos mediante Stripe**.
+
+## 🛠️ Tecnologías usadas
+
+- **WordPress** — Gestión y desarrollo de la página web.
+- **WooCommerce** — Gestión de productos, carrito y proceso de compra.
+- **Elementor** — Diseño y personalización de la interfaz.
+- **Stripe** — Gestión y procesamiento de pagos.
+- **MySQL** — Gestión de la base de datos.
